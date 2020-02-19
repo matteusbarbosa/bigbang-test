@@ -1,3 +1,5 @@
 Projeto de teste baseado em OpenWeatherMaps e Spotify API, usando PHP procedural
 
 Receba como parâmetro o nome de uma cidade (city_name) ou uma combinação de latitude (lat) e longitude(lon) e retorna uma sugestão de playlist (array com o título das músicas) de acordo com a temperatura atual da cidade.
+
+![Retorno de lat/lon da cidade de Sarzedo](https://gm1.ggpht.com/i4WWGmgr6ekXc25foK-DxFcWdWOP5xdSFsjoWHkKDwQM1mZeHaA_cr8y19EFvSWdxGGGg1fxw3XmaDTZdhcR8BDMnMHPwwlNIfVTLgFhquYSO0QI0_Mf5ZhsHmGmbRp4esbiwLAV-2COChesfiVIMEEglGhije5-0yG44v0mETWwPk3pvfJHFYnobQlwBkcC-YiLaAWIy96X3CYRsuQ72hvfo3Sa5Z1bp6laa8-Uqmbco4TkeY_z-fICklqAqq4kLAHlp0WDbxCjszS8lPn05El3hN06jf8PoKtII6lIQ98Fdx4MS9d5Mh_-kCJdQaqVh5x-84o7IJ6EZ79qxU6fG7CqmItFc1pavHMe8fXc6XqL3zOsggmp1FhnKphhrXLERgkXDyKK72Og5lVnO-yeMqUWeZhC31hgF1CjnBrn6fHv3BRjhvJv4k0tROlhZNhw7tI6QFRAMbSNHLS7pvCSY-Hz1z4I9j5a3qhnXgqPBUB8urUP8AQIm5u7GYE3oCJeOcBy07p-j-Ce7yJyWjRBbUHmTg4BoVjgqhjLy-zx796YgjYdijFW-lZZZ_tXbcvWdkgu5owH08DaGlbpx1CMp4Xjog8lyJdjqlRQNol8tYYPOm2ngCvV969JX9oskjBZC4CkJTrzQss0fseWP3Y3TfnSPMc-wkoE8WdU3PIKMYLAy6gvrUgLGNgRpHLt8xPfx-I_ndvqXCIvr-VkJNdVJhdctL96KEAqzvkVv-q3smlIM5XAJClthj9GEYv5qA=s0-l75-ft-l75-ft)
